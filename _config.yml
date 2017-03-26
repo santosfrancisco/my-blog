@@ -52,8 +52,8 @@ duoshuo_share: false                     # set to false if you want to use Comme
 # Baidu Analytics
 ba_track_id: 
 # Google Analytics
-ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain: 
+ga_track_id: 'UA-47305515-4'          # Format: UA-xxxxxx-xx
+ga_domain: 'auto'
 
 
 # Sidebar settings
