@@ -2,10 +2,13 @@
 title: Hello AngularJs
 date: 2017-03-27 12:30:55
 tags: angularJS
+header-img: "img/home-bg-note.jpg"
+author: Francisco
 ---
-![AngularJS](angularjs.png)
 
 Que tal um bom e velho *hello world* para conhecer o AngularJS? Vamos lá!
+<!-- more -->
+![AngularJS](angularjs.png)
 
 Primeiro vamos criar um diretório onde colocaremos nossos arquivos. No meu caso dei o nome de *HelloAngularJS*, mas você pode dar o nome que preferir. E, para fins de organização, criaremos, dentro deste diretório, outro chamado *js*.
 

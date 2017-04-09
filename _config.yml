@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoshidf.github.io
+url: http://devchico.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -22,7 +22,7 @@ permalink_defaults:
 SEOTitle: Francisco's Blog
 header-img: img/home-bg.jpg
 email: yoshi.df@gmail.com
-description: "Conteúdo sobre FrontEnd e afins"
+description: "To Be A Learn Developer!"
 keyword: ""
 
 
@@ -88,7 +88,7 @@ fancybox: true
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: i_dont_wanna_use_default_archives
+archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -131,7 +131,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huxblog
+theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
