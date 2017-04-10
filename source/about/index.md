@@ -3,8 +3,8 @@ layout: "about"
 title: "About"
 date: 2016-04-21 04:48:33
 description: "Hey, i'm Francisco."
-header-img: "img/about-bg-coffee.jpg"
-comments: true
+header-img: "img/about-bg.jpg"
+comments: false
 ---
 ## Sobre mim
 

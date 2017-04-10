@@ -2,7 +2,6 @@
 title: Hello AngularJs
 date: 2017-03-27 12:30:55
 tags: angularJS
-header-img: "img/home-bg-note.jpg"
 author: Francisco
 ---
 
